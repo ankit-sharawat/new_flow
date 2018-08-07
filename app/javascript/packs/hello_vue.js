@@ -40,7 +40,6 @@ import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import 'bootstrap/js/dist/dropdown.js'
-import 'jquery.flowchart/jquery.flowchart.css'
 Vue.use(BootstrapVue)
 
 document.addEventListener('DOMContentLoaded', () => {
